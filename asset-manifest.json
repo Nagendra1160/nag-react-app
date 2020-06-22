@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nag-react-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/nag-react-app/static/js/main.3adfd6de.chunk.js",
+    "main.js.map": "/nag-react-app/static/js/main.3adfd6de.chunk.js.map",
+    "runtime-main.js": "/nag-react-app/static/js/runtime-main.47d70acc.js",
+    "runtime-main.js.map": "/nag-react-app/static/js/runtime-main.47d70acc.js.map",
+    "static/js/2.16960475.chunk.js": "/nag-react-app/static/js/2.16960475.chunk.js",
+    "static/js/2.16960475.chunk.js.map": "/nag-react-app/static/js/2.16960475.chunk.js.map",
+    "index.html": "/nag-react-app/index.html",
+    "precache-manifest.e0c197cdc78b6ddfae926631d4e7ce85.js": "/nag-react-app/precache-manifest.e0c197cdc78b6ddfae926631d4e7ce85.js",
+    "service-worker.js": "/nag-react-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/nag-react-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.16960475.chunk.js.LICENSE.txt": "/nag-react-app/static/js/2.16960475.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nag-react-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47d70acc.js",
+    "static/js/2.16960475.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3adfd6de.chunk.js"
+  ]
+}
